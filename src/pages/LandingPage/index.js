@@ -24,8 +24,8 @@ export default function LandingPage() {
            </nav>
            <header class="masthead">
                <div class="container">
-                   <div class="masthead-subheading">Cuidado asequible y oportuno de la Salud Mental</div>
-                   <div class="masthead-heading text-uppercase">EDUMOKIA</div>
+                   <div class="masthead-subheading">Plataforma de gestión académica para prevención de salud mental</div>
+                   <div class="masthead-heading text-uppercase text-primary">EDUMOKIA</div>
                </div>
            </header>
            <section class="page-section" id="services">
@@ -276,7 +276,7 @@ export default function LandingPage() {
                                 <i className="fas fa-phone fa-stack-1x fa-inverse"></i>
                             </span>
                            <div className="row ml-auto">
-                               <a className="text-muted">+56 9 98644286</a>
+                               <a className="text-muted" href="https://wa.link/mswydf">+56 9 98644286</a>
                            </div>
                        </div>
                        <div className="col-lg-6 mr-auto text-center">

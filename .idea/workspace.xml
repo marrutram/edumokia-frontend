@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="000d84b1-f9cd-4781-afc2-6e80b98294dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nvmrc" afterDir="false" />
+    <list default="true" id="7ea13635-a5f3-41a7-86f7-dbb702e52944" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/logos/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/logos/google.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/logos/ibm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/logos/microsoft.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/map-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/header-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/map-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/LandingPage/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/LandingPage/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +29,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2LnTfwMr8TRCB7pe8tK0mayNfyp" />
+  <component name="ProjectId" id="2M0s58fdFVbdSk1BTie7a9GrONC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +45,7 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/rutmartinez/Development/private/edumokia",
+    "last_opened_file_path": "/Users/rutmartinez/.local/share/nvm/v16.18.0/bin/node",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,68 +55,20 @@
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/assets/img" />
-      <recent name="$PROJECT_DIR$/src/assets" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/pages/LandingPage " />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/img/team" />
-      <recent name="$PROJECT_DIR$/src/assets/img/team" />
-      <recent name="$PROJECT_DIR$/public/img" />
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src/assets/img" />
-      <recent name="$PROJECT_DIR$/src/assets" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="edumokia" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="edumokia" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="edumokia" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="edumokia" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="000d84b1-f9cd-4781-afc2-6e80b98294dc" name="Changes" comment="" />
-      <created>1676505955242</created>
+      <changelist id="7ea13635-a5f3-41a7-86f7-dbb702e52944" name="Changes" comment="" />
+      <created>1676915648338</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1676505955242</updated>
-      <workItem from="1676505957609" duration="6034000" />
-      <workItem from="1676585898557" duration="8168000" />
-      <workItem from="1676898884913" duration="56000" />
-      <workItem from="1676898947500" duration="43000" />
-      <workItem from="1676898998128" duration="37000" />
-      <workItem from="1676899043033" duration="10000" />
-      <workItem from="1676899100822" duration="46000" />
+      <updated>1676915648338</updated>
+      <workItem from="1676915650726" duration="1547000" />
     </task>
     <servers />
   </component>
