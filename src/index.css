@@ -632,6 +632,9 @@ progress {
 }
 
 @media (min-width: 576px) {
+  #mainNav .navbar-brand img {
+    height: 2rem;
+  }
   .container-sm, .container {
     max-width: 540px;
   }
@@ -11423,6 +11426,10 @@ header.masthead .masthead-heading {
 }
 
 @media (min-width: 768px) {
+  #mainNav .navbar-brand img {
+    height: 2rem;
+  }
+
   header.masthead {
     padding-top: 17rem;
     padding-bottom: 12.5rem;
