@@ -26,6 +26,8 @@ export default function LandingPage() {
                <div class="container">
                    <div class="masthead-subheading">Plataforma de gestión académica para prevención de salud mental</div>
                    <div class="masthead-heading text-uppercase text-primary">EDUMOKIA</div>
+                   <a className="btn btn-secondary btn-xl text-uppercase" href="https://wa.link/mswydf">Solicitar una demo</a>
+
                </div>
            </header>
            <section class="page-section" id="services">
