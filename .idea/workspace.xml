@@ -5,29 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ea13635-a5f3-41a7-86f7-dbb702e52944" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/navbar-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/portfolio/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/portfolio/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sponsor/corfo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sponsor/cwo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sponsor/emerge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sponsor/imagine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sponsor/vanda.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/navbar-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/portfolio/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/header-bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home/index.scss" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/LandingPage/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/LandingPage/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676915648338</updated>
       <workItem from="1676915650726" duration="10995000" />
-      <workItem from="1677982376543" duration="9143000" />
+      <workItem from="1677982376543" duration="9853000" />
     </task>
     <servers />
   </component>

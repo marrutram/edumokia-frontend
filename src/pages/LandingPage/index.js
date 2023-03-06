@@ -16,7 +16,7 @@ export default function LandingPage() {
                        <div className="col-xl-8">
                            <div className="text-center text-white"> <h1>EDUMOKIA SCHOOL</h1> </div>
                            <div className="text-center text-secondary">
-                               <h4 className="mb-5">Plataforma de gestión académica para prevención de salud mental</h4>
+                               <h4 className="mb-3">Plataforma de gestión académica para prevención de salud mental</h4>
                            </div>
                        </div>
                        <div className="col-md-6">

@@ -11337,7 +11337,7 @@ header.masthead h1, header.masthead .h1 {
 
 @media (max-width: 1000px) {
   .masthead-top {
-    top: 8rem;
+    top: 10rem;
   }
   header.masthead h1 {
     font-size: 2rem;
@@ -11347,7 +11347,7 @@ header.masthead h1, header.masthead .h1 {
   }
   header.masthead {
     padding-bottom: 12rem;
-    height: 40vh;
+    height: 45vh;
   }
 }
 
@@ -11390,12 +11390,13 @@ header.masthead h1, header.masthead .h1 {
 .call-to-action:before {
   content: "";
   position: absolute;
-  background-color: #1c375e;
+  background-color: #121a23a6;
+  opacity: .8 !important;
+  transition: background 0.3s,border-radius 0.3s,opacity 0.3s;
   height: 100%;
   width: 100%;
   top: 0;
   left: 0;
-  opacity: 0.5;
 }
 
 footer.footer {
