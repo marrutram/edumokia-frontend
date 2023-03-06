@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Switch, Redirect, useLocation } from "react-route
 import { globalC } from "./context";
 import SignIn from "./pages/SignIn";
 import Home from "./pages/Home"
-import LandingPage from "./pages/LandingPage"
+import LandingPage from "./pages/LandingPage/index"
 import { users } from "./constants";
 
 const PrivateRoute = (props) => {
