@@ -5,6 +5,7 @@ import { Store } from './redux/store';
 import App from './App';
 import { Gprov } from "./context";
 import 'bootstrap/dist/js/bootstrap.bundle.min';
+import './assets/scss/sb-admin-2.scss';
 import './assets/js/scripts';
 import './index.css'
 

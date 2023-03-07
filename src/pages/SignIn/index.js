@@ -25,14 +25,14 @@ export default function SignIn() {
 
     return (
         <div className="container sign-in">
-            {/* <!-- Outer Row --> */}
+
             <div className="row justify-content-center">
 
                 <div className="col-xl-10 col-lg-12 col-md-9">
 
                     <div className="card card-login o-hidden border-0 shadow-lg my-5">
                         <div className="card-body p-0">
-                            {/* <!-- Nested Row within Card Body --> */}
+
                             <div className="row">
                                 <div className="col-lg-6 d-none d-lg-block bg-login-image"></div>
                                 <div className="col-lg-6">
@@ -61,14 +61,7 @@ export default function SignIn() {
                                             <button type="submit" onClick={handleClick} className="btn btn-primary btn-user btn-block">
                                                 Ingresar
                                             </button>
-                                            <hr/>
-                                            <hr/>
-                                            <a href="index.html" className="btn btn-google btn-user btn-block">
-                                                <i className="fab fa-google fa-fw"></i> Login with Google
-                                            </a>
-                                            <a href="index.html" className="btn btn-facebook btn-user btn-block">
-                                                <i className="fab fa-facebook-f fa-fw"></i> Login with Facebook
-                                            </a>
+
                                         </form>
                                         <hr/>
                                         <div className="text-center">

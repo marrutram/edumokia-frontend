@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './index.scss';
 
 export default function LandingPage() {
@@ -7,7 +8,9 @@ export default function LandingPage() {
            <nav className="navbar navbar-light bg-light static-top">
                <div className="container">
                    <img height="60" src="./img/navbar-logo.png" alt=""/>
-                   <a className="btn btn-primary" href="#signup">Entrar</a>
+                   <Link className="nav-link" to="/signup">
+                        <a className="btn btn-primary" href="">Entrar</a>
+                   </Link>
                </div>
            </nav>
            <header className="masthead">

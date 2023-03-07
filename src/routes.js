@@ -31,7 +31,7 @@ const Routes = () => {
     return <BrowserRouter>
         <Switch>
             <Route exact path="/" component={LandingPage}/>
-            <PrivateRoute path="/signup" component={SignIn}/>
+            <Route path="/signup" component={SignIn}/>
             {menu?.home && <PrivateRoute exact path="/home" component={Home}/>}
         </Switch>
     </BrowserRouter>

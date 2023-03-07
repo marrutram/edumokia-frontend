@@ -1,34 +1,26 @@
 export const users = {
     admin: {
         username: "admin",
-        nickname: "Admin Learning",
-        password: "1234",
+        nickname: "Admin ",
+        password: "1234Admin",
         menu: {
-            home: true,
-            charts: true,
-            courses: true,
-            dashboard: true,
-            news: true,
-            administratorOrganizational: true,
-            administrationBenefits: true,
-            library: true
+            home: true
         }
     },
-    collaborator: {
-        username: "collaborator",
-        nickname: "collaborator Learning",
-        password: "1234",
+    teacher: {
+        username: "teacher",
+        nickname: "teacher",
+        password: "1234Teacher",
         menu: {
-            home: true,
-            charts: true,
-            courses: true,
-            dashboard: false,
-            news: true,
-            performance: true,
-            weather: true,
-            administratorOrganizational: false,
-            administrationBenefits: false,
-            library: true
+            home: true
         }
-    }
+    },
+    student: {
+        username: "student",
+        nickname: "Student",
+        password: "1234Student",
+        menu: {
+            home: true
+        }
+    },
 }
