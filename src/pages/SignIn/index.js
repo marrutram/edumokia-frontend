@@ -36,7 +36,9 @@ export default function SignIn() {
                             <div className="row">
                                 <div className="col-lg-6 d-none d-lg-block bg-login-image"></div>
                                 <div className="col-lg-6">
+
                                     <div className="p-5">
+                                        <div className="text-center d-lg-none"> <img height="100" src="./img/logo.png" alt=""/> </div>
                                         <form className="user">
                                             <div className="form-group">
                                                 <input type="text" className="form-control form-control-user"
